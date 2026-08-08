@@ -176,3 +176,5 @@ This project aims to demonstrate the practical application of Transformer-based 
 By combining a pre-trained RoBERTa sentiment model with Streamlit and Plotly, the system will provide an accessible platform for analyzing online opinions and presenting the results in a simple visual format.
 
 The project will demonstrate not only the use of an AI model but also the complete process of turning an AI capability into a usable business-oriented application.
+
+![alt text](image.png)
